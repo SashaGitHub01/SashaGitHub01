@@ -54,6 +54,8 @@
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server
 
+ ### [More projects here](https://github.com/SashaGitHub01?tab=repositories)
+ 
 <h2 align="left">My skills and tools:</h2>
 <p align="left">
    <a target="_blank" rel="noreferrer">
