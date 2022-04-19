@@ -9,7 +9,7 @@
 
 📧 **alexwebdev777@gmail.com**
 
-## My development stack:
+## 🖥 My development stack:
 
 - HTML
 - CSS/SCSS/SASS/CSS-modules
@@ -19,14 +19,30 @@
 - Redux
 - Redux-Toolkit
 - Redux-Thunk/Saga
+- Formik, React-hook-form
 - GraphQL, Apollo
 - TailwindCSS, MaterialUI, AntDesign, Styled-components
 - NodeJS, Express, Passport.js 
 - Mongoose, Sequelize, TypeORM
 - MongoDB, PostgreSQL
 
-## My stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
+
+##  My projects:
+ #### [Amazon Clone][amazon]
+ **Tech stack:**
+ - Frontend:
+   - React
+   - Redux-toolkit
+   - TailwindCSS, AntD
+   - Formik
+- Backend:
+   - NodeJS
+   - Express
+   - MongoDB, Mongoose
+   - Passport.js
+   - JWT
+   - Stripe.js
 
 <h2 align="left">My skills and tools:</h2>
 <p align="left">
@@ -87,3 +103,9 @@
 
 [vk]:https://vk.com/id345872941
 [tg]: https://t.me/Alexander123457788
+<!---->
+[git]: https://stark-oasis-90056.herokuapp.com/
+[twitter]: https://ecstatic-goldstine-912dc4.netlify.app/
+[amazon]: https://flamboyant-thompson-058c30.netlify.app/ 
+[pizza]: https://stormy-temple-06069.herokuapp.com/home
+[social]: https://agitated-bhabha-ba93cb.netlify.app/
