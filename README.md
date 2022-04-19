@@ -25,12 +25,12 @@
 - NodeJS, Express, Passport.js 
 - Mongoose, Sequelize, TypeORM
 - MongoDB, PostgreSQL
+- Git/GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
 
 ##  My projects:
- #### [Amazon Clone][amazon]
- **Tech stack:**  
+ ### ✔ [Amazon Clone][amazon]
  **Frontend**: React, Redux-toolkit, TailwindCSS, AntD, Formik   
  **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js   
 
