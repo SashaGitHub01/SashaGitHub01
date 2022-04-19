@@ -1,10 +1,11 @@
 # 👋 Hi there, my name is Alexander.
 
-### 🌍 Contact me:
+## 🌍 Contact me:
 
--[<img alt="" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width='20' height='20' /> Me in Telegram](tg)
--[<img alt="" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" width='20' height='20'/> Me in VK](vk)
--📧 **alexwebdev777@gmail.com**
+[<img alt="" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram"/>](tg)
+[<img alt="" src="https://img.shields.io/badge/VKontakte-0077FF.svg?&style=for-the-badge&logo=vk"/>](vk)
+[<img alt="" src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=Google&logoColor=fff"/>](alexwebdev777@gmail.com)
+📧 **alexwebdev777@gmail.com**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
 
