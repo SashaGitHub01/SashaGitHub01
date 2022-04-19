@@ -55,7 +55,7 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="typescript" width="60" height="60" />
    </a>
    <a href="" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="git" width="60" height="60" />
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="60" height="60" />
    </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" />
