@@ -4,7 +4,6 @@
 
 [<img alt="" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram"/>][tg]
 [<img alt="" src="https://img.shields.io/badge/VKontakte-0077FF.svg?&style=for-the-badge&logo=vk"/>][vk]
-[<img alt="" src="https://img.shields.io/badge/alexwebdev777@gmail.com-EA4335.svg?&style=for-the-badge&logo=Google&logoColor=fff"/>][alexwebdev777@gmail.com]
 
 📧 **alexwebdev777@gmail.com**
 
