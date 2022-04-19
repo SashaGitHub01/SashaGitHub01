@@ -31,8 +31,28 @@
 
 ##  My projects:
  ### ✔ [Amazon Clone][amazon]
+
  **Frontend**: React, Redux-toolkit, TailwindCSS, AntD, Formik   
- **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js   
+ **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js
+
+### ✔ [Social App][social]
+ 
+ **Frontend**: React, ApolloClient, CSS-modules, MaterialUI, react-hook-form  
+ **Backend**: NodeJS, GraphQL, ApolloServer, Express, MongoDB, Mongoose, JWT, Nodemailer, Multer, Cloudinary 
+
+### ✔ [Twitter Clone][twitter]
+ 
+ **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, Formik 
+ **Backend**: NodeJS, TypeScript, Express, MongoDB, Mongoose, Passport, JWT, Nodemailer, Multer, Cloudinary 
+
+### ✔ [GitHub Clone][git]
+ 
+ **Frontend**: React, ReactQuery, CSS-modules, GitHub API
+ **Backend**: NodeJS, Express, Passport
+
+### ✔ [Pizza Shop][twitter]
+ 
+ **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server
 
 <h2 align="left">My skills and tools:</h2>
 <p align="left">
