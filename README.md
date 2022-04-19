@@ -9,26 +9,6 @@
 
 📧 **alexwebdev777@gmail.com**
 
-## 🖥 My development stack:
-
-- HTML
-- CSS/SCSS/SASS/CSS-modules
-- React
-- JavaScript
-- TypeScript
-- Redux
-- Redux-Toolkit
-- Redux-Thunk/Saga
-- Formik, React-hook-form
-- GraphQL, Apollo
-- TailwindCSS, MaterialUI, AntDesign, Styled-components
-- NodeJS, Express, Passport.js 
-- Mongoose, Sequelize, TypeORM
-- MongoDB, PostgreSQL
-- Git/GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
-
 ##  My projects:
  ### ✔ [Amazon Clone][amazon]
 
@@ -55,6 +35,26 @@
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server
 
  ### [🔻 More projects here...](https://github.com/SashaGitHub01?tab=repositories)
+
+## 🖥 My development stack:
+
+- HTML
+- CSS/SCSS/SASS/CSS-modules
+- React
+- JavaScript
+- TypeScript
+- Redux
+- Redux-Toolkit
+- Redux-Thunk/Saga
+- Formik, React-hook-form
+- GraphQL, Apollo
+- TailwindCSS, MaterialUI, AntDesign, Styled-components
+- NodeJS, Express, Passport.js 
+- Mongoose, Sequelize, TypeORM
+- MongoDB, PostgreSQL
+- Git/GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
 
 <h2 align="left">My skills and tools:</h2>
 <p align="left">
