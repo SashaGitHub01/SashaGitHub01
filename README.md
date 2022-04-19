@@ -1,5 +1,7 @@
 # 👋 Hi there, my name is Alexander.
 
+### 🟢 I'm Frontend developer, looking for a job now.
+
 ## 🌍 Contact me:
 
 [<img alt="" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram"/>][tg]
@@ -7,9 +9,7 @@
 
 📧 **alexwebdev777@gmail.com**
 
-### 🟢 I'm Frontend developer, looking for a job now.
-
-### My development stack:
+## My development stack:
 
 - HTML
 - CSS/SCSS/SASS/CSS-modules
