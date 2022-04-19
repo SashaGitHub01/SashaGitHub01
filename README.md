@@ -1,5 +1,7 @@
 # 👋 Hi there, my name is Alexander.
 
+### I'm Frontend developer,
+
 ## 🌍 Contact me:
 
 [<img alt="" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram"/>][tg]
