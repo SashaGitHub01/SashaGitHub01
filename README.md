@@ -30,19 +30,9 @@
 
 ##  My projects:
  #### [Amazon Clone][amazon]
- **Tech stack:**
- - Frontend:
-   - React
-   - Redux-toolkit
-   - TailwindCSS, AntD
-   - Formik
-- Backend:
-   - NodeJS
-   - Express
-   - MongoDB, Mongoose
-   - Passport.js
-   - JWT
-   - Stripe.js
+ **Tech stack:**  
+ **Frontend**: React, Redux-toolkit, TailwindCSS, AntD, Formik   
+ **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js   
 
 <h2 align="left">My skills and tools:</h2>
 <p align="left">
