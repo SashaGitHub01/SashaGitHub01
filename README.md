@@ -43,6 +43,7 @@
 - React
 - JavaScript
 - TypeScript
+- Next.js
 - Redux
 - Redux-Toolkit
 - Redux-Thunk/Saga
