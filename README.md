@@ -42,12 +42,12 @@
 
 ### ✔ [Twitter Clone][twitter]
  
- **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, Formik 
+ **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, Formik  
  **Backend**: NodeJS, TypeScript, Express, MongoDB, Mongoose, Passport, JWT, Nodemailer, Multer, Cloudinary 
 
 ### ✔ [GitHub Clone][git]
  
- **Frontend**: React, ReactQuery, CSS-modules, GitHub API
+ **Frontend**: React, ReactQuery, CSS-modules, GitHub API  
  **Backend**: NodeJS, Express, Passport
 
 ### ✔ [Pizza Shop][twitter]
