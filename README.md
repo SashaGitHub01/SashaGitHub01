@@ -2,20 +2,8 @@
 
 ### 🌍 Contact me:
 
--[<div>
-   <img alt="" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width='20' height='20'
-      style="vertical-align: middle;" />
-   <span style="vertical-align: middle;">
-      Me in Telegram
-   </span>
-</div>](tg)
--[<div>
-   <img alt="" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" width='20' height='20'
-      style="vertical-align: middle;" />
-   <span style="vertical-align: middle;">
-      Me in VK
-   </span>
-</div>](vk)
+-[<div><img alt="" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width='20' height='20'style="vertical-align: middle;" /><span style="vertical-align: middle;"></span></div>](tg)
+-[<div><img alt="" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" width='20' height='20' style="vertical-align: middle;" /><span style="vertical-align: middle;">Me in VK</span></div>](vk)
 -📧 **alexwebdev777@gmail.com**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
