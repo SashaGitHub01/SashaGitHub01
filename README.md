@@ -1,6 +1,6 @@
 # 👋 Hi there, my name is Alexander.
 
-### I'm Frontend developer,
+### 🟢 I'm Frontend developer, looking for a job now.
 
 ## 🌍 Contact me:
 
