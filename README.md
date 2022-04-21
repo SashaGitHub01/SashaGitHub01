@@ -38,22 +38,22 @@
 
 ## 🖥 My development stack:
 
-- HTML
-- CSS/SCSS/SASS/CSS-modules
-- React
-- JavaScript
+- React.js(hooks)
+- JavaScript(ES6+)
 - TypeScript
 - Next.js
 - Redux
 - Redux-Toolkit
-- Redux-Thunk/Saga
-- Formik, React-hook-form
-- GraphQL, Apollo
+- Redux-Thunk, Redux-Saga
+- HTML5
+- CSS/SCSS/SASS/CSS-modules(Flex, Grid, Responsive)
+- Formik, React-hook-form, Yup
+- GraphQL, ApolloClient, ApolloServer
 - TailwindCSS, MaterialUI, AntDesign, Styled-components
 - NodeJS, Express, Passport.js 
 - Mongoose, Sequelize, TypeORM
 - MongoDB, PostgreSQL
-- Git/GitHub
+- Git/GitHub(Git Flow)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
 
