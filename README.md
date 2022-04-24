@@ -48,9 +48,11 @@
 - HTML5
 - CSS/SCSS/SASS/CSS-modules(Flex, Grid, Responsive)
 - Formik, React-hook-form, Yup
-- GraphQL, ApolloClient, ApolloServer
+- GraphQL, 
+- ApolloClient, ApolloServer
 - TailwindCSS, MaterialUI, AntDesign, Styled-components
-- NodeJS, Express, Passport.js 
+- NodeJS, Express, Passport.js,
+- Socket.io (basic knowledge)
 - Mongoose, Sequelize, TypeORM
 - MongoDB, PostgreSQL
 - Git/GitHub(Git Flow)
