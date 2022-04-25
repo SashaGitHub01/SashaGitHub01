@@ -13,7 +13,7 @@
  ### ✔ [Amazon Clone][amazon]
 
  **Frontend**: React, Redux-toolkit, TailwindCSS, AntD, Formik   
- **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js 
+ **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js  
  [Client code](https://github.com/SashaGitHub01/amazon-client), [Server code](https://github.com/SashaGitHub01/amazon-server)
 
 ### ✔ [Social App][social]
