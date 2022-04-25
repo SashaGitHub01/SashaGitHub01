@@ -45,7 +45,7 @@
 
 - React.js(hooks)
 - JavaScript(ES6+)
-- TypeScript
+- TypeScript, PropTypes
 - Next.js
 - Redux
 - Redux-Toolkit
