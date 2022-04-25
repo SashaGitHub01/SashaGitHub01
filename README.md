@@ -19,21 +19,25 @@
 ### ✔ [Social App][social]
  
  **Frontend**: React, ApolloClient, CSS-modules, MaterialUI, react-hook-form  
- **Backend**: NodeJS, GraphQL, ApolloServer, Express, MongoDB, Mongoose, JWT, Nodemailer, Multer, Cloudinary 
+ **Backend**: NodeJS, GraphQL, ApolloServer, Express, MongoDB, Mongoose, JWT, Nodemailer, Multer, Cloudinary  
+ [Client code](https://github.com/SashaGitHub01/merng-client), [Server code](https://github.com/SashaGitHub01/merng-serv)
 
 ### ✔ [Twitter Clone][twitter]
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, Formik  
- **Backend**: NodeJS, TypeScript, Express, MongoDB, Mongoose, Passport, JWT, Nodemailer, Multer, Cloudinary 
+ **Backend**: NodeJS, TypeScript, Express, MongoDB, Mongoose, Passport, JWT, Nodemailer, Multer, Cloudinary   
+ [Client code](https://github.com/SashaGitHub01/twitter-clone), [Server code](https://github.com/SashaGitHub01/twitter-server)
 
 ### ✔ [GitHub Clone][git]
  
  **Frontend**: React, ReactQuery, CSS-modules, GitHub API  
- **Backend**: NodeJS, Express, Passport
+ **Backend**: NodeJS, Express, Passport  
+ [Client code](https://github.com/SashaGitHub01/my-git-app), [Server code](https://github.com/SashaGitHub01/git-serv)
 
 ### ✔ [Pizza Shop][twitter]
  
- **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server
+ **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server  
+ [Client code](https://github.com/SashaGitHub01/react-pizza)
 
  ### [🔻 More projects here...](https://github.com/SashaGitHub01?tab=repositories)
 
