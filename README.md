@@ -26,7 +26,12 @@
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, Formik  
  **Backend**: NodeJS, TypeScript, Express, MongoDB, Mongoose, Passport, JWT, Nodemailer, Multer, Cloudinary   
- [Client code](https://github.com/SashaGitHub01/twitter-clone), [Server code](https://github.com/SashaGitHub01/twitter-server)
+ [Client code](https://github.com/SashaGitHub01/twitter-clone), [Server code](https://github.com/SashaGitHub01/twitter-server)  
+
+### ✔ [Cryptocurrency App][crypto]
+ 
+ **Frontend**: React, TypeScript, Redux-toolkit, antd, SCSS, BEM, Coinbase API, News API    
+ [Client code](https://github.com/SashaGitHub01/cryproCurrencies)  
 
 ### ✔ [GitHub Clone][git]
  
@@ -129,3 +134,4 @@
 [amazon]: https://flamboyant-thompson-058c30.netlify.app/ 
 [pizza]: https://stormy-temple-06069.herokuapp.com/home
 [social]: https://agitated-bhabha-ba93cb.netlify.app/
+[crypto]: https://quiet-quokka-668ce5.netlify.app/
