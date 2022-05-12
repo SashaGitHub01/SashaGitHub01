@@ -55,17 +55,18 @@
 - Redux
 - Redux-Toolkit
 - Redux-Thunk, Redux-Saga
-- HTML5
-- CSS/SCSS/SASS/CSS-modules(Flex, Grid, Responsive)
-- Formik, React-hook-form, Yup
 - GraphQL, 
 - ApolloClient, ApolloServer
-- TailwindCSS, MaterialUI, AntDesign, Styled-components
 - NodeJS, Express, Passport.js,
+- HTML5
+- CSS/SCSS/SASS/CSS-modules(Flex, Grid, Responsive)
+- TailwindCSS, MaterialUI, AntDesign, Styled-components
+- Formik, React-hook-form, Yup
 - Socket.io (basic knowledge)
 - Mongoose, Sequelize, TypeORM
 - MongoDB, PostgreSQL
 - Git/GitHub(Git Flow)
+- Postman
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaGitHub01&layout=compact)
 
