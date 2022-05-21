@@ -10,36 +10,36 @@
 📧 **alexwebdev777@gmail.com**
 
 ##  My projects:
- ### ✔ [Amazon Clone][amazon]
+ ### ✔ [Amazon Clone][amazon] [Demo]
 
  **Frontend**: React, Redux-toolkit, TailwindCSS, AntD, Formik   
  **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js  
  [Frontend code](https://github.com/SashaGitHub01/amazon-client), [Server code](https://github.com/SashaGitHub01/amazon-server)
 
-### ✔ [Social App][social]
+### ✔ [Social App][social] [Demo]
  
  **Frontend**: React, ApolloClient, CSS-modules, MaterialUI, react-hook-form  
  **Backend**: NodeJS, GraphQL, ApolloServer, Express, MongoDB, Mongoose, JWT, Nodemailer, Multer, Cloudinary  
  [Frontend code](https://github.com/SashaGitHub01/merng-client), [Server code](https://github.com/SashaGitHub01/merng-serv)
 
-### ✔ [Twitter Clone][twitter]
+### ✔ [Twitter Clone][twitter] [Demo]
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, Formik  
  **Backend**: NodeJS, TypeScript, Express, MongoDB, Mongoose, Passport, JWT, Nodemailer, Multer, Cloudinary   
  [Frontend code](https://github.com/SashaGitHub01/twitter-clone), [Server code](https://github.com/SashaGitHub01/twitter-server)  
 
-### ✔ [Cryptocurrency App][crypto]
+### ✔ [Cryptocurrency App][crypto] [Demo]
  
  **Frontend**: React, TypeScript, Redux-toolkit, antd, SCSS, BEM, Coinbase API, News API    
  [Frontend code](https://github.com/SashaGitHub01/cryproCurrencies)  
 
-### ✔ [GitHub Clone][git]
+### ✔ [GitHub Clone][git] [Demo]
  
  **Frontend**: React, ReactQuery, CSS-modules, GitHub API  
  **Backend**: NodeJS, Express, Passport  
  [Frontend code](https://github.com/SashaGitHub01/my-git-app), [Server code](https://github.com/SashaGitHub01/git-serv)
 
-### ✔ [Pizza Shop][twitter]
+### ✔ [Pizza Shop][twitter] [Demo]
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server  
  [Frontend code](https://github.com/SashaGitHub01/react-pizza)
