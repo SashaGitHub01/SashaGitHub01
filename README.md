@@ -10,6 +10,12 @@
 📧 **alexwebdev777@gmail.com**
 
 ##  My projects:
+ ### ✔ [YouTube Clone 2022][yt] [Demo]
+
+ **Frontend**: Next.js, React-query, TypeScript, TailwindCSS, react-hook-form, swiper  
+ **Backend**: NodeJS, Express, TypeScript, Mongoose, Passport.js, JWT    
+ [Code](https://github.com/SashaGitHub01/youtubev2)
+
  ### ✔ [Amazon Clone][amazon] [Demo]
 
  **Frontend**: React, Redux-toolkit, TailwindCSS, AntD, Formik   
@@ -54,7 +60,8 @@
 - Next.js
 - Redux
 - Redux-Toolkit
-- Redux-Thunk, Redux-Saga
+- Redux-Thunk, Redux-Saga, 
+- React-query
 - GraphQL, 
 - ApolloClient, ApolloServer
 - NodeJS, Express, Passport.js,
@@ -136,3 +143,4 @@
 [pizza]: https://stormy-temple-06069.herokuapp.com/home
 [social]: https://agitated-bhabha-ba93cb.netlify.app/
 [crypto]: https://quiet-quokka-668ce5.netlify.app/
+[yt]: https://youtubev2022.vercel.app/
