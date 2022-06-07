@@ -10,6 +10,7 @@
 📧 **alexwebdev777@gmail.com**
 
 ##  My projects:
+### ❗❗❗ SERVER IS DEPLOYED ON HEROKU IN SLEEP MODE, SO IF THE PAGE LOADED WITH AN ERROR OR DIDN'T LOAD, THEN WAIT 1-2 MINUTES ❗❗❗
  ### ✔ [YouTube Clone 2022][yt] [Demo]
 
  **Frontend**: Next.js, React-query, TypeScript, TailwindCSS, react-hook-form, swiper  
