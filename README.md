@@ -46,7 +46,7 @@
  **Backend**: NodeJS, Express, Passport  
  [Frontend code](https://github.com/SashaGitHub01/my-git-app), [Server code](https://github.com/SashaGitHub01/git-serv)
 
-### ✔ [Pizza Shop][twitter] [Demo]
+### ✔ [Pizza Shop][pizza] [Demo]
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server  
  [Frontend code](https://github.com/SashaGitHub01/react-pizza)
