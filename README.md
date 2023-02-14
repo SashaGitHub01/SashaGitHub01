@@ -10,43 +10,43 @@
 📧 **alexwebdev777@gmail.com**
 
 ##  My projects:
-### ❗❗❗ SERVER IS DEPLOYED ON HEROKU IN SLEEP MODE, SO IF THE PAGE LOADED WITH AN ERROR OR DIDN'T LOAD, THEN WAIT 1-2 MINUTES ❗❗❗
- ### ✔ [YouTube Clone 2022][yt] [Demo]
+
+ ### ✔ [YouTube Clone 2022][yt]
 
  **Frontend**: Next.js, React-query, TypeScript, TailwindCSS, react-hook-form, swiper  
  **Backend**: NodeJS, Express, TypeScript, Mongoose, Passport.js, JWT    
  [Code](https://github.com/SashaGitHub01/youtubev2)
 
- ### ✔ [Amazon Clone][amazon] [Demo]
+ ### ✔ [Amazon Clone][amazon]
 
  **Frontend**: React, Redux-toolkit, TailwindCSS, AntD, Formik   
  **Backend**: NodeJS, Express, MongoDB, Mongoose, Passport.js, JWT, Stripe.js  
  [Frontend code](https://github.com/SashaGitHub01/amazon-client), [Server code](https://github.com/SashaGitHub01/amazon-server)
 
-### ✔ [Social App][social] [Demo]
+### ✔ [Social App][social]
  
  **Frontend**: React, ApolloClient, CSS-modules, MaterialUI, react-hook-form  
  **Backend**: NodeJS, GraphQL, ApolloServer, Express, MongoDB, Mongoose, JWT, Nodemailer, Multer, Cloudinary  
  [Frontend code](https://github.com/SashaGitHub01/merng-client), [Server code](https://github.com/SashaGitHub01/merng-serv)
 
-### ✔ [Twitter Clone][twitter] [Demo]
+### ✔ [Twitter Clone][twitter]
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, Formik  
  **Backend**: NodeJS, TypeScript, Express, MongoDB, Mongoose, Passport, JWT, Nodemailer, Multer, Cloudinary   
  [Frontend code](https://github.com/SashaGitHub01/twitter-clone), [Server code](https://github.com/SashaGitHub01/twitter-server)  
 
-### ✔ [Cryptocurrency App][crypto] [Demo]
+### ✔ [Cryptocurrency App][crypto]
  
  **Frontend**: React, TypeScript, Redux-toolkit, antd, SCSS, BEM, Coinbase API, News API    
  [Frontend code](https://github.com/SashaGitHub01/cryproCurrencies)  
 
-### ✔ [GitHub Clone][git] [Demo]
+### ✔ [GitHub Clone][git]
  
  **Frontend**: React, ReactQuery, CSS-modules, GitHub API  
  **Backend**: NodeJS, Express, Passport  
  [Frontend code](https://github.com/SashaGitHub01/my-git-app), [Server code](https://github.com/SashaGitHub01/git-serv)
 
-### ✔ [Pizza Shop][pizza] [Demo]
+### ✔ [Pizza Shop][pizza]
  
  **Frontend**: React, TypeScript, Redux, Redux-thunk, SCSS, fake JSON-server  
  [Frontend code](https://github.com/SashaGitHub01/react-pizza)
@@ -63,14 +63,17 @@
 - Redux-Toolkit
 - Redux-Thunk, Redux-Saga, 
 - React-query
+- MobX, mobx-state-tree
 - GraphQL, 
 - ApolloClient, ApolloServer
+- eslint, prettier
+- Jest, react-testing-library
 - NodeJS, Express, Passport.js,
 - HTML5
 - CSS/SCSS/SASS/CSS-modules(Flex, Grid, Responsive)
 - TailwindCSS, MaterialUI, AntDesign, Styled-components
 - Formik, React-hook-form, Yup
-- Socket.io (basic knowledge)
+- Socket.io
 - Mongoose, Sequelize, TypeORM
 - MongoDB, PostgreSQL
 - Git/GitHub(Git Flow)
