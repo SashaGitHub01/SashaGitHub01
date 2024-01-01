@@ -94,7 +94,7 @@
 </p>
 
 [vk]:https://vk.com/id345872941
-[tg]: https://t.me/Alexander123457788
+[tg]: https://t.me/alexanderdev777
 <!---->
 [git]: https://stark-oasis-90056.herokuapp.com/
 [twitter]: https://ecstatic-goldstine-912dc4.netlify.app/
